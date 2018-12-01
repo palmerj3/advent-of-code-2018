@@ -9,11 +9,9 @@
     "experimentalDecorators": true,
     "target": "es6",
     "sourceMap": true,
-    "lib": [
-      "es6"
-    ]
+    "lib": ["es6"],
+    "alwaysStrict": true,
+    "strict": true
   },
-  "exclude": [
-    "node_modules"
-  ]
- }
+  "exclude": ["node_modules"]
+}
