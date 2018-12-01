@@ -1,0 +1,10 @@
+{
+  "name": "jsonp-advent-of-code-2018-day1-2",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "execute": "yarn build && node ./lib/index.js"
+  }
+}
